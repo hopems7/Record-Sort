@@ -1,7 +1,7 @@
 #include "MembersMain.h"
 #include "HTMLTable.h"
 
-
+// main function for record sort
 int main()
 {
 	//declare vectors and strings
